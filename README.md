@@ -34,7 +34,4 @@
 ###
 
 
-![snake animation](https://github.com/<Ricardiin>/<Ricardiin>/blob/output/github-contribution-grid-snake2.svg)
-
-
 ###
