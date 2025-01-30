@@ -42,17 +42,17 @@ jobs:
 
       # Step 1: Checkout the repository
 
-      - name: RIcardiin
+      - name: Checkout Repository
 
-        uses: Ricardiin
+        uses: actions/checkout@v3
 
 
 
       # Step 2: Generate the snake animations
 
-      - name: Ricardiin
+      - name: Generate GitHub Contributions Snake Animations
 
-        uses: Ricardin
+        uses: Platane/snk@v3
 
         with:
 
