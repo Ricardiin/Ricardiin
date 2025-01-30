@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/VUOmTlXi8yMAAAAi/itto-dance-nep-nepping.gif"  />
 
 ###
 
@@ -32,8 +32,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Ricardiin/Ricardiin/output/snake.svg" alt="Snake animation" />
 
