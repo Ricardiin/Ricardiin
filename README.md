@@ -31,7 +31,4 @@
   </a>
 </div>
 
-###
-
-
-###
+![snake gif](https://raw.githubusercontent.com/Ricardiin/Ricardiin/d5851528e4339f0f788396c0feeb7bcce5e28399/github-snake.svg)
