@@ -1,7 +1,4 @@
 <h2 align="left">Hello, my name is Richard better known as ricardin and I am studying information technology at Senac Tatuape, i'm from brazil</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricardiin" alt="ricardiin" /></a> </p>
-
-
 
 ###
 
@@ -35,3 +32,5 @@
 </div>
 
 ![snake gif](https://raw.githubusercontent.com/Ricardiin/Ricardiin/d5851528e4339f0f788396c0feeb7bcce5e28399/github-snake.svg)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricardiin" alt="ricardiin" /></a> </p>
