@@ -118,3 +118,5 @@ A gamified productivity and study management platform made with:
 ## ⚡ Fun Fact
 
 🎮 I like games with progression systems and I use that inspiration in my projects.
+
+![snake gif](https://raw.githubusercontent.com/Ricardiin/Ricardiin/d5851528e4339f0f788396c0feeb7bcce5e28399/github-snake.svg) <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricardiin" alt="ricardiin" /></a> </p>
