@@ -105,12 +105,16 @@ A gamified productivity and study management platform made with:
 ### <div align="center">
 
 <img height="150"
-src="https://media.tenor.com/VUOmTlXi8yMAAAAi/itto-dance-nep-nepping.gif" />
+src="GIF1">
+
+<img width="25"/>
 
 <img height="150"
-src="https://media.tenor.com/SEI5rQ0zP9AAAAAi/anime.gif" />
+src="GIF2">
+
+<img width="25"/>
 
 <img height="150"
-src="https://media.tenor.com/fSsxftCb8w0AAAAi/pixel-cat.gif" />
+src="GIF3">
 
-</div> 
+</div>
