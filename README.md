@@ -103,6 +103,7 @@ A gamified productivity and study management platform made with:
 - Study City System
 
 </td>
+<td align="center" style="border:none; background:none;">
 
 <td align="center">
 
