@@ -102,4 +102,9 @@ A gamified productivity and study management platform made with:
 
 ![snake gif](https://raw.githubusercontent.com/Ricardiin/Ricardiin/d5851528e4339f0f788396c0feeb7bcce5e28399/github-snake.svg) <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricardiin" alt="ricardiin" /></a> </p>
 
-### < height="150" src="https://media.tenor.com/VUOmTlXi8yMAAAAi/itto-dance-nep-nepping.gif" /> ###
+### <div align="center">
+
+<img height="150"
+src="https://media.tenor.com/VUOmTlXi8yMAAAAi/itto-dance-nep-nepping.gif" />
+
+</div> ###
