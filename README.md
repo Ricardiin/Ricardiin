@@ -65,6 +65,10 @@
 
 
 ---
+<table style="border:none; background:none;">
+<tr style="border:none; background:none;">
+
+<td width="60%" style="border:none; background:none;">
 
 ## 🏆 GitHub Trophies
 
