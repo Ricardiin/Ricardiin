@@ -75,6 +75,10 @@
 </div>
 
 ---
+<table>
+<tr>
+
+<td width="60%">
 
 ## 🎯 Current Project
 
@@ -93,6 +97,18 @@ A gamified productivity and study management platform made with:
 - Gamification
 - Reading Tracker
 - Study City System
+
+</td>
+
+<td align="center">
+
+<img height="180"
+src="https://media.tenor.com/VUOmTlXi8yMAAAAi/itto-dance-nep-nepping.gif"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
