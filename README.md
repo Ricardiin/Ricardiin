@@ -73,15 +73,6 @@
 
 </div>
 
----
-
-## 🐍 Contributions Snake
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/Ricardiin/Ricardiin/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
