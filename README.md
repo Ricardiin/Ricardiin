@@ -107,4 +107,4 @@ A gamified productivity and study management platform made with:
 <img height="150"
 src="https://media.tenor.com/VUOmTlXi8yMAAAAi/itto-dance-nep-nepping.gif" />
 
-</div> ###
+</div> 
