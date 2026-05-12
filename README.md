@@ -65,24 +65,10 @@
 
 
 ---
-<table style="border:none; background:none;">
-<tr style="border:none; background:none;">
+<table border="0">
+<tr border="0">
 
-<td width="60%" style="border:none; background:none;">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ricardiin&theme=dracula&no-frame=false&no-bg=false&margin-w=4" />
-
-</div>
-
----
-<table>
-<tr>
-
-<td width="60%">
+<td border="0" width="60%">
 
 ## 🎯 Current Project
 
@@ -103,9 +89,8 @@ A gamified productivity and study management platform made with:
 - Study City System
 
 </td>
-<td align="center" style="border:none; background:none;">
 
-<td align="center">
+<td border="0" align="center">
 
 <img height="180"
 src="https://media.tenor.com/VUOmTlXi8yMAAAAi/itto-dance-nep-nepping.gif"/>
